@@ -1,0 +1,12 @@
+.actions {
+  float: right;
+  padding: 1rem;
+}
+
+.all-list-container {
+  padding: 1rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-gap: 12px;
+  margin-top: 2rem;
+}

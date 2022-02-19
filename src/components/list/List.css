@@ -1,0 +1,15 @@
+.list {
+  padding: 1rem;
+  box-shadow: 1px 2px 0 #888888;
+  border: 1px solid #a3acdf;
+}
+
+.list > h4 {
+  border-bottom: 1px solid grey;
+  text-align: center;
+}
+
+.add-card-button {
+  margin: 1rem;
+  text-align: center;
+}
